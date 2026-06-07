@@ -6,7 +6,7 @@ An interactive NLP-powered Streamlit dashboard that classifies tweet sentiment i
 
 ## 🎬 Demo
 
-![Twitter Sentiment Dashboard Demo](twitter_dashboard_demo.gif)
+![Twitter Sentiment Dashboard Demo](twitter_sentiment_dashboard_demo.gif)
 
 ---
 
@@ -91,6 +91,7 @@ varun0852-Twitter-Sentiment-Analytics-Dashboard/
 ├── tfidf_vectorizer.pkl          # Fitted TF-IDF vectorizer
 ├── sample_tweets.csv             # Sample CSV for testing batch analysis
 ├── requirements.txt              # Python dependencies
+├── twitter_sentiment_dashboard_demo.gif  # Demo GIF
 ├── assets/                       # Dashboard screenshots
 │   ├── dashboard_home.png
 │   ├── prediction.png
