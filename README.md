@@ -8,7 +8,7 @@ An interactive NLP-powered Streamlit dashboard that classifies tweet sentiment i
 
 ## 🚀 Live Demo
 
-🔗 **[Try the app here](https://twitter-sentiment-analytics-dashboard-sybzhk4p9qefdprjqpttpq.streamlit.app/)**
+🔗 **[Try the live app here](https://twitter-sentiment-analytics-dashboard-sybzhk4p9qefdprjqpttpq.streamlit.app/)**
 
 Paste any tweet → Get instant Positive / Negative prediction with confidence score
 
